@@ -37,6 +37,3 @@ def simulate_data(num_features, num_points, num_subspaces, subspaces_dim):
     return data
 
         
-
-if __name__ == '__main__':
-    print(simulate_data(3, 30, 2, 2))
